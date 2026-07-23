@@ -3,7 +3,7 @@ package ConditionalStatements;
 /*
     Problem :
     Read a number. If number is divisible by 2 or 3 print "divisible",
-    otherwise print "not divisible" 
+    otherwise print "not divisible"
  */
 
 import java.util.Scanner;
