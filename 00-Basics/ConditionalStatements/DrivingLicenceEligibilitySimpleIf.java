@@ -8,7 +8,7 @@ Read a person's age. If the age is 18 or above, print "You are Eligible".
 Otherwise, do nothing.
 */
 
-public class DrivingLicenceEligibilityUsingSimpleIf {
+public class DrivingLicenceEligibilitySimpleIf {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

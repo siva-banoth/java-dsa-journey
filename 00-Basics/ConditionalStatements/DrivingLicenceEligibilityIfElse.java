@@ -12,7 +12,7 @@ Constraints:
 
 import java.util.Scanner;
 
-public class DrivingLicenceEligibilityUsingIfElse {
+public class DrivingLicenceEligibilityIfElse {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
