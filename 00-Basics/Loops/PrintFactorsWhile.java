@@ -8,7 +8,7 @@ Take as input a number n. Print factors of n
 
 import java.util.Scanner;
 
-public class FactorsWhile {
+public class PrintFactorsWhile {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
