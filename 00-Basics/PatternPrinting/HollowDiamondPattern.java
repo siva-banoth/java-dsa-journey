@@ -1,4 +1,19 @@
 package PatternPrinting;
+/*
+Take as input a number n, the number of rows
+Print the following pattern
+
+*** ***
+**   **
+*     *
+**   **
+*** ***
+
+1 <= n <= 25 and is odd
+
+
+ */
+
 
 import java.util.Scanner;
 
