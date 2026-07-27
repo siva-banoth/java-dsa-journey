@@ -1,5 +1,19 @@
 package PatternPrinting;
 
+/*
+Take as input a number n, the number of rows
+Print the following pattern
+
+*
+*	*
+*	*	*
+*	*	*	*
+*	*	*	*	*
+
+constraints : 1 <= n <= 25
+
+ */
+
 import java.util.Scanner;
 
 public class Triangle {
@@ -8,7 +22,7 @@ public class Triangle {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
 
-        int nst =  1;
+        int nst = 1;
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= nst; j++) {
                 System.out.print("*" + " ");
