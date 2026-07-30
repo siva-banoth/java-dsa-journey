@@ -29,10 +29,10 @@ public class Fact_nCrnPr {
 
         int nFact = fact(n);
         int rFact = fact(r);
-        int nMinusrFact = fact(n - r);
+        int nmrFact = fact(n - r);
 
-        int nPr = nFact / (nMinusrFact);
-        int nCr = nFact / (rFact * nMinusrFact);
+        int nPr = nFact / (nmrFact);
+        int nCr = nFact / (rFact * nmrFact);
 
         System.out.println(nFact);
         System.out.println(nPr);
