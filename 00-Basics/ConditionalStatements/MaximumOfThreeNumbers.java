@@ -18,7 +18,7 @@ Constraints:
 
 import java.util.Scanner;
 
-public class MaximumOfThreeNumbersIfElseLadder {
+public class MaximumOfThreeNumbers {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

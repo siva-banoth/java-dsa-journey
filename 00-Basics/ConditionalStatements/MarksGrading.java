@@ -14,7 +14,7 @@ package ConditionalStatements;
 
 import java.util.Scanner;
 
-public class MarksGradingIfElseLadder {
+public class MarksGrading {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -8,7 +8,7 @@ package ConditionalStatements;
 
 import java.util.Scanner;
 
-public class DivisibleBy2or3IfElse {
+public class DivisibleBy2or3 {
     public static void main(String[] args){
 
         Scanner scan = new Scanner(System.in);
